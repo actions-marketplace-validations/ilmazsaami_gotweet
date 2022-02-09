@@ -1,6 +1,6 @@
-name: Tweeter Action
-author: devigned
-description: Simple action to send a tweet via an GitHub Action.
+name: sample-action-saami
+author: sample-action-saami
+description: github action to send a tweet.
 inputs:
   message:
     description: 'message you want to tweet'
